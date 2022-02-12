@@ -1,0 +1,52 @@
+# print("Hello World")
+# print("Mary'y cosmties")
+# print('신씨가 소리쳤다 "도둑이야".')
+# print('C:\Win"dows"')
+# print('"안녕하세요.\n만나서\t\t반갑습니다"')
+# print("오늘은",'월요일') #(오늘은 월요일)
+# print("never:kakao;sk;samsung")
+# print("never/kakao/sk/samsung")
+# print("first",end=' '); print("second")
+# print(5/3)
+# 샘송 = 50000
+# 총평가금엑 = 샘송 * 10
+# print(총평가금엑)
+# 시가총액 = "298조"
+# 현재가 = "50000원"
+# per = 15.79
+# s = "hello"
+# t = "pythen"
+# print(s+'!'+t)
+# print(type(124))
+# num_str = "720"
+# print(type(num_str))
+# print(type(int(num_str)))
+# print(type(str(num_str)))
+# print(str(num)+"abcd")
+# num = "15.79"
+# print(type(num))
+# print(type(float(num)))
+# print(float(num)+1.32)
+# letters = 'phthon'
+# print(letters[0],letters[2])
+# license_plate= "24가 2210"
+# print(license_plate[3:8])
+# string = "홀짝홀짝홀짝"
+# print(string[0]+string[2]+string[4])
+# string = "PYTHON"
+# print(string[::-1])
+# phone_number = "010-6700-1950"
+# print(phone_number.replace("-"," "))
+# print(phone_number.replace("-",""))
+# url = "http://sharebook.kr"
+# print(url.split(".")[1])
+# a = "hello!, my name is {}, i'm {} years old".format("python","14")
+# print(a)
+# name1 = "김민수"
+# age1 = 10
+# name2 = "이찬형"
+# age2 = 13
+# a = "이름 : {} 나이 : {}\n이름 : {} 나이 : {}".format(name1,age1,name2,age2)
+# print(a)
+# nums = [1,2,3,4,5]
+# print(sum(nums)/len(n))
